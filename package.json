@@ -1,0 +1,16 @@
+{
+  "name": "pancakeswap-sniping-bot",
+  "version": "2.0.0",
+  "description": "A free NodeJS sniper bot built to work with PancakeSwap",
+  "main": "pancakeswap-sniping-bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cronr": "^2.2.1",
+    "web3": "1.3.6"
+  }
+}
